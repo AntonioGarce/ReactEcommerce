@@ -1,5 +1,0 @@
-export { orderDetailReducer, getOrder } from './orderDetailSlice'
-export { myOrdersReducer, listMyOrders } from './myOrdersSlice'
-export { createOrderReducer, createOrder, createOrderReset } from './createOrderSlice'
-export { payOrderReducer, payOrder, payOrderReset } from './payOrderSlice'
-export { orderListReducer, getOrders } from './orderListSlice'
